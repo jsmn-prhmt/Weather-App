@@ -7,5 +7,5 @@ Please note the "key" provided by Accu Weather in forcast.js file, might be expi
 
 Demo: https://wthr-app-project.netlify.app
 
-<img width="788" alt="Screenshot 2022-08-11 at 07 40 35" src="https://user-images.githubusercontent.com/52753698/184070883-30ca6a0b-8b8c-4fa2-83ac-c30060555813.png">
-<img width="788" alt="Screenshot 2022-08-11 at 07 41 48" src="https://user-images.githubusercontent.com/52753698/184070896-51ca209f-8964-47a6-afc9-20b1364c8e09.png">
+<img width="788" alt="Screenshot 2022-08-11 at 07 40 09" src="https://user-images.githubusercontent.com/52753698/184070936-f2c875fd-ae20-486b-906f-c455af8fcabc.png">
+<img width="788" alt="Screenshot 2022-08-11 at 07 41 48" src="https://user-images.githubusercontent.com/52753698/184070940-9819d6ae-3bdc-480a-8bd7-b365969aa187.png">
